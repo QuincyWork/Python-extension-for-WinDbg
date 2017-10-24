@@ -1,0 +1,12 @@
+EXPORTS
+	DebugExtensionInitialize
+	DebugExtensionUninitialize
+
+	info
+	py
+	pycmd
+	pythonpath
+	pylist
+    pyresume
+    pysuspend
+    pykill
